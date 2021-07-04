@@ -1,9 +1,9 @@
-"name": "xDDD",
+ {  
+        "name": "xDDD",
 	"description": "no description", 
 	"update_timestamp": 1608065779 , 
 	"url": "https://raw.githubusercontent.com/kacperek03/fvdsvds/main/XD.json",
 	"locations": 
- {
     "name": ["A Alley", "CT"],
     "weapon": "weapon_smokegrenade",
     "position": [936.03997802734, -1032.0100097656, -257.94744873047],
