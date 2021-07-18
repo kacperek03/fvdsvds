@@ -1,6 +1,4 @@
-{
-    "name": "locations_3",
-    "locations":{
+{ "name":"HVH exper_t", "description":"enjoy free helper data", "locations":
   "cs_assault": [
     {
       "name": ["Barrels", "Barrels FD"],
